@@ -1,0 +1,5 @@
+cluster2-secret.yaml
+cluster1-secret.yaml
+cluster1.pem
+cluster2.pem
+sa.yaml
